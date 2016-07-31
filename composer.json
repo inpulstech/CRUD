@@ -1,16 +1,7 @@
 {
     "name": "backpack-inpulsion/crud",
     "description": "Quickly build an admin interface for your Eloquent models, using Laravel 5. Build a CMS in a matter of minutes.",
-    "keywords": [
-        "CRUD",
-        "create",
-        "update",
-        "delete",
-        "read",
-        "admin panel",
-        "admin interface",
-        "CMS"
-    ],
+    "keywords": [ ],
     "homepage": "https://github.com/laravel-backpack/CRUD",
     "license": "MIT",
     "authors": [
@@ -44,11 +35,6 @@
     },
     "scripts": {
         "test": "phpunit"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
     },
 
     "minimum-stability": "dev"
